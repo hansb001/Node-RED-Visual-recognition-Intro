@@ -24,7 +24,7 @@ Here a short [presentation](steps/presentation.pdf) of the components which you 
 * Step 1 - [Create an Node-RED application and connect a Visual Recognition service.](nodered.md)
 * Step 2 - [Install extra nodes.](extranode.md)
 * Step 3 - [Build the flow and do some configuration.](flow.md)
-* Step 4 - [Done!! Now time to play with the flow ](play.md)
+* Step 4 - [Finished! Test and play with your flow](play.md)
 
 ## Useful links
 
