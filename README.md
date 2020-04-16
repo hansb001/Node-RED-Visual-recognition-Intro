@@ -23,12 +23,10 @@ To create your AI powered application, you must first deploy a Node-RED-starter 
 Here a short [presentation](steps/presentation.pdf) of the components which you will make use of.
 
 
-* Step 1 - [Create an IBM Cloud app using the Node-RED Starter application.](steps/nodered.md)
-* Step 2 - [Deploy Visual Recognition service from IBM Cloud Catalog.](steps/vr.md)
-* Step 3 - [Connect the deployed Visual Recognition service to the node-red  application, which is created in step 1.](steps/connect.md)
-* Step 4 - [Back to Node-RED Starter application (as in Step 1) and install nodes.](steps/extranode.md)
-* Step 5 - [Build the flow and do some configuration.](steps/flow.md)
-* Step 6 - [Done!! Now time to play with the flow ](steps/play.md)
+* Step 1 - [Step 1 - Create an Node-RED application and connect a Visual Recognition service.](nodered.md)
+* Step 2 - [Install extranodes.](extranode.md)
+* Step 3 - [Build the flow and do some configuration.](steps/flow.md)
+* Step 4 - [Done!! Now time to play with the flow ](steps/play.md)
 
 ## Useful links
 
