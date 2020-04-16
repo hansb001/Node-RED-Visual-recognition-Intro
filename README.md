@@ -1,8 +1,6 @@
 # Node-RED-Visual-recognition-Intro
 
 
-
-
 <hr>
 
 ## Introduction
