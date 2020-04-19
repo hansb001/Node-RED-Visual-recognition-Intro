@@ -34,4 +34,4 @@ Now you have connected a Visual Recognition service to your application, next st
 
  13. In the next screen click on `Visit app URL`.
 
- 14. Follow the steps in the next screens and launch the flow editor.
+ 14. Follow the steps on the next screens and launch the flow editor.
