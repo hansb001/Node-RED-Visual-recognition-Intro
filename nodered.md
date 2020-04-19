@@ -24,9 +24,9 @@ Now you have connected a Visual Recognition service to your application, next st
 
  8. Deploy your app by clicking on `Deploy your app`.
 
- 9. You need an API-key so click on `New` next to the API-key field.
+ 9. You need an API-key so click on `New` next to the API-key field and click on `Create`.
 
- 10. Wait for a minute and click on `Create`.
+ 10. Wait for a minute to get the Delivery Pipeline information loaded.
 
  11. Click on the name of the app, next to name under Delivery Pipelines, to see the 2 stages (build and deploy) of your pipeline and the progress.
 
