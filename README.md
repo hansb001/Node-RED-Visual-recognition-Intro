@@ -6,6 +6,7 @@
 ## Introduction
 
 With this project, you can quickly build a Node-RED Starter app and use one of the Watson cognitive service. You will use Watson Visual Recognition. 
+It is just an introduction to Node-RED and Watson, very simple, but this will get you an idea on how to use it.
 
 ## -- Before you begin --
 
