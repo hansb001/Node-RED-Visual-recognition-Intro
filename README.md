@@ -22,7 +22,7 @@ To create your AI powered application, you must first deploy a Node-RED-starter 
 Here a short [presentation](steps/presentation.pdf) of the components which you will make use of.
 
 
-* Step 1 - [Create an Node-RED application and connect a Visual Recognition service.](nodered.md)
+* Step 1 - [Create a Node-RED application and connect a Visual Recognition service.](nodered.md)
 * Step 2 - [Install extra nodes.](extranode.md)
 * Step 3 - [Build the flow and do some configuration.](flow.md)
 * Step 4 - [Finished! Test and play with your flow](play.md)
