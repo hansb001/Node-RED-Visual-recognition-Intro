@@ -19,7 +19,7 @@ It is just an introduction to Node-RED and Watson, very simple, but this will ge
 
 To create your AI powered application, you must first deploy a Node-RED-starter application. Then you need the Watson Visual Recognition service  to this Node-RED application. 
 
-Here a short [presentation](steps/PresentationVis.pdf) of the components which you will make use of.
+Here a short [presentation](PresentationVis.pdf) of the components which you will make use of.
 
 
 * Step 1 - [Create a Node-RED application and connect a Visual Recognition service.](nodered.md)
